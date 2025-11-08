@@ -8,7 +8,7 @@ This repository provides a ready-to-use Docker environment for simulating a 3-ax
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/gantry_simulation.git
+git clone https://github.com/vishalrajsundrani/gantry_simulation.git
 cd gantry_simulation
 ```
 
