@@ -40,7 +40,7 @@ ros2 launch gantry_sim gantry.launch.py
 ## Contributing
 
 ### 1. Make changes in gantry_ws/src/gantry_sim
-### 2. Rebuild inside container (then exit):
+### 2. Rebuild inside container:
 ```bash
 cd ~/gantry_ws
 colcon build
