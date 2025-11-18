@@ -1,2 +1,17 @@
-<depend>rclcpp</depend>
-<depend>gazebo_ros</depend>
+<?xml version="1.0"?>
+<package format="3">
+  <name>gantry_sim</name>
+  <version>0.0.1</version>
+  <description>Gantry robot simulation package using ROS2 + Gazebo</description>
+
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+  <depend>gazebo_ros</depend>
+
+  <exec_depend>ros2launch</exec_depend>
+
+</package>
